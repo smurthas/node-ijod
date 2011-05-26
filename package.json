@@ -1,0 +1,12 @@
+{
+    "name": "ijod",
+    "description": "Indexed JSON on Disk",
+    "version": "0.0.0",
+    "homepage": "https://github.com/smurthasmith/ijod",
+    "engines": {
+        "node": ">= 0.4.6"
+    },
+    "dependencies": {
+        "sqlite": "=1.0.3"
+    }
+}
